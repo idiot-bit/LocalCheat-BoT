@@ -20,7 +20,7 @@ CAPTION_TEMPLATE = """✅ Key Updated Successfully!
 ♻️Iɢɴᴏʀᴇ Kɴᴏᴄᴋᴇᴅ / Vɪsɪʙɪʟɪᴛʏ Cʜᴇᴄᴋ⚠️
 ♻️Oɴʟɪɴᴇ Bʏᴘᴀss Sʏsᴛᴇᴍ - 🌀
 
-Key - `{}`
+Key - {}
 
 𝗗𝗶𝗿𝗲𝗰𝘁 𝗟𝗼𝗴𝗶𝗻 𝗠𝗮𝗶𝗻 𝗔𝗰𝗰𝗼𝘂𝗻𝘁 ☠
 
